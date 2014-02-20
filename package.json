@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-wobble",
+  "description": "wobble animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "wobble"
+  ],
+  "styles": [
+    "wobble.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
